@@ -4,7 +4,7 @@ Building a single unified digital experience for all veterans.
 
 ## If you're a veteran
 
-Check out to [vets.gov](https://www.vets.gov) to get information and apply for services.
+Check out [vets.gov](https://www.vets.gov) to get information and apply for services.
 
 ## If you're a software developer
 
