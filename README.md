@@ -20,7 +20,7 @@ Technologies: Jekyll, HTML, CSS, Javascript
 
 [Project Link](https://github.com/department-of-veterans-affairs/vets-website)
 
-### gi-bill-comparison-tool
+### [gi-bill-comparison-tool]((https://github.com/department-of-veterans-affairs/gi-bill-comparison-tool-new))
 
 It's easy for veterans to go back to school via the GI Bill, but finding a school is a separate challenge. This is an easy to use search engine for finding schools and educational institutions based on veteran-related criteria.
 
@@ -28,7 +28,7 @@ Technologies: Ruby, Rails, HTML, CSS, Javascript
 
 [Project Link](https://github.com/department-of-veterans-affairs/gi-bill-comparison-tool-new)
 
-### veterans-employment-center
+### [veterans-employment-center](https://github.com/department-of-veterans-affairs/veterans-employment-center)
 
 Veterans have a lot of transferrable skills from their years of service, but it can be challenging to communicate this to employers. Veterans Employment Center helps veterans build resumes and find veteran friendly employers.
 
@@ -36,7 +36,7 @@ Technologies: Ruby, Rails, HTML, CSS, Javascript
 
 [Project Link](https://github.com/department-of-veterans-affairs/veterans-employment-center)
 
-### va_common
+### [va_common](https://github.com/department-of-veterans-affairs/va_common)
 
 There are common style elements on all vets.gov sites, like headers, footers, and images. This repository is a Ruby/Rails gem that contains common assets for use in making a vets.gov website.
 
@@ -48,7 +48,7 @@ Technologies: Ruby, Rails, HTML, CSS, Javascript
 
 These projects have not had an initial first release, and aren't fully usable. However, feel free to check out their Issues if you'd like to contribute.
 
-### service-and-facility-locator
+### [service-and-facility-locator](https://github.com/department-of-veterans-affairs/service-and-facility-locator)
 
 Want to find a hospital or where a certain kind of veteran service can be delivered. There's an app for that...this one.
 
