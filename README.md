@@ -20,7 +20,7 @@ Technologies: Jekyll, HTML, CSS, Javascript
 
 [Project Link](https://github.com/department-of-veterans-affairs/vets-website)
 
-### [gi-bill-comparison-tool]((https://github.com/department-of-veterans-affairs/gi-bill-comparison-tool-new))
+### [gi-bill-comparison-tool](https://github.com/department-of-veterans-affairs/gi-bill-comparison-tool)
 
 It's easy for veterans to go back to school via the GI Bill, but finding a school is a separate challenge. This is an easy to use search engine for finding schools and educational institutions based on veteran-related criteria.
 
