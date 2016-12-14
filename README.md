@@ -31,3 +31,10 @@ _This project will be deprecated when it is ported to [vets-website](https://git
 Veterans have a lot of transferrable skills from their years of service, but it can be challenging to communicate this to employers. Veterans Employment Center helps veterans build resumes and find veteran friendly employers.
 
 _This project will be deprecated when it is ported to [vets-website](https://github.com/department-of-veterans-affairs/vets-website) and [vets-api](https://github.com/department-of-veterans-affairs/vets-api)._
+
+### [healthcare-application](https://github.com/department-of-veterans-affairs/healthcare-application)
+_Description TBD_
+
+### [gibct-data-service](https://github.com/department-of-veterans-affairs/gibct-data-service)
+
+Allows stakeholders to build a valid GIBCT database from various data sources and apis.
